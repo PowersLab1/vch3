@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/vch_short_psychedelic_3/precache-manifest.fc0d61e0b1e695be5d3e7ee1d022ceec.js"
+  "/vch3/precache-manifest.48a9571e6778a68b8f5421d89aea4b99.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/vch_short_psychedelic_3/index.html", {
+workbox.routing.registerNavigationRoute("/vch3/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
