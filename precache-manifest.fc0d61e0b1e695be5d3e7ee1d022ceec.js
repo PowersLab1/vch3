@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "ef30501aa5e50e4bca21",
+    "revision": "4c11718373057e40d360",
     "url": "/vch_short_psychedelic_3/static/css/main.5e3cc42c.chunk.css"
   },
   {
-    "revision": "ef30501aa5e50e4bca21",
-    "url": "/vch_short_psychedelic_3/static/js/main.8b4b5485.chunk.js"
+    "revision": "4c11718373057e40d360",
+    "url": "/vch_short_psychedelic_3/static/js/main.9e3db62c.chunk.js"
   },
   {
     "revision": "2f37dba859a14769810c",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/vch_short_psychedelic_3/static/media/rating_keydown_5.ae6e6c1f.png"
   },
   {
-    "revision": "8b5378bafbba842a7953e1976dde5cb2",
+    "revision": "6879a7d7f302fd0b23ff42981a617b22",
     "url": "/vch_short_psychedelic_3/index.html"
   }
 ];
